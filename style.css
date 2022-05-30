@@ -1,0 +1,116 @@
+
+.F1{
+background-image: url("p12.jfif");
+ width: 100%; 
+ height: 100vh;
+}
+nav {
+
+    display: flex;
+
+    width: 84%;
+
+    margin: auto;
+
+    padding: 20px 0;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+}
+
+
+
+nav ul li {
+
+    display: inline-block;
+
+    list-style: none;
+
+    margin: 10px 20px;
+
+}
+
+
+
+nav ul li a {
+
+    text-decoration: none;
+
+    color: aliceblue;
+
+    font-weight: bold;
+
+}
+
+
+
+nav ul li a:hover {
+
+    color: rgb(201, 86, 10);
+
+}
+
+.box-form {
+
+    max-width: 400px;
+
+    background: rgb(91, 91, 92);
+
+    box-shadow: 20px 20px 40px rgb(255, 211, 240);
+
+    border-radius: 2em;
+
+    padding: 6em;
+
+    position: relative;
+
+    place-content: center;
+    
+}
+
+
+* {
+  box-sizing: border-box;
+}
+header {
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
+  article {
+    float: left;
+    padding: 20px;
+    width: 70%;
+    background-color: #f1f1f1;
+    height: 300px; /* only for demonstration, should be removed */
+  }
+  footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+  
+  .container {
+
+    max-width: 400px;
+
+    background: rgb(91, 91, 92);
+
+    box-shadow: 20px 20px 40px rgb(255, 211, 240);
+
+    border-radius: 2em;
+
+    padding: 6em;
+
+    position: relative;
+
+    place-content: center;
+    
+}
+
+
