@@ -1,10 +1,5 @@
 
-.F1{
-background-image: url("LOGO.png");
- width: 100%; 
- height: 100vh;
-}
-nav {
+
 
     display: flex;
 
